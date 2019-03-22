@@ -1,5 +1,5 @@
 # Welcome
-## This repo is for my WhatsApp Stickers App available at taihao.de/stickers for Android.
+#### This repo is for my WhatsApp Stickers App available at taihao.de/stickers for Android.
 
 For a detailed documentation on how WhatsApp Stickers work, please consult [this repo](https://github.com/WhatsApp/stickers/tree/master/Android).
 
