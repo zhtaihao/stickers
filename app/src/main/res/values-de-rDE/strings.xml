@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tieraufkleber</string>
+    <string name="tray_image_content_description">Tieraufkleber</string>
+    <string name="more_info_button">Info</string>
+    <string name="add_to_whatsapp">Zu WhatsApp hinzufügen!</string>
+    <string name="add_button_content_description">Aufkleber zu WhatsApp hinzufügen!</string>
+    <string name="title_activity_sticker_packs_list">Aufkleberpakete</string>
+    <string name="title_activity_sticker_pack_details_single_pack">Aufkleberpaket</string>
+    <string name="title_activity_sticker_pack_details_multiple_pack">Aufkleberdetails</string>
+    <string name="title_activity_sticker_pack_info">Info</string>
+    <string name="send_email">Aufklebervorschläge senden</string>
+    <string name="privacy_policy">Datenschutzerklärung (englisch)</string>
+    <string name="error_adding_sticker_pack">Aufkleberpaket konnte nicht hinzugefügt werden. Bitte installiere die neueste Version von WhatsApp bevor du das Paket hinzufügst</string>
+    <string name="error_message">Fehler: %s Siehe Logcat. Kontaktiere den Entwickler für mehr Information (mail@taihao.de)</string>
+    <string name="title_validation_error">Fehler mit dem Paket. Kontaktiere den Entwickler für mehr Information (mail@taihao.de)</string>
+    <string name="info_screen_tray_icon">Tray-Icon</string>
+    <string name="details_pack_already_added">Aufkleber zu WhatsApp hinzugefügt!</string>
+    <string name="info_send_email_to_prompt">E-Mail senden mit</string>
+    <string name="add_pack_fail_prompt_update_whatsapp">Aufkleberpaket nicht hinzugefügt. Stelle sicher dass WhatsApp auf der neuesten Version ist, um die Aufkleber hinzuzufügen.</string>
+    <string name="add_pack_fail_prompt_update_play_link">Aktualisieren</string>
+    <string name="cannot_find_play_store">Google Play ist auf diesem Gerät nicht installiert.</string>
+    <string name="share_button">Teilen</string>
+    <string name="share_subject">Tieraufkleber!</string>
+</resources>

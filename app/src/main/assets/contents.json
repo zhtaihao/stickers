@@ -1,0 +1,174 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.zhtaihao.stickers",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "dog",
+      "name": "Golden Retriever",
+      "publisher": "zhtaihao",
+      "tray_image_file": "tray_dog.png",
+      "publisher_email":"app@taihao.de",
+      "publisher_website": "https://taihao.de",
+      "privacy_policy_website": "https://taihao.de/privacy",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_dog.webp",
+          "emojis": ["🐶"]
+        },
+        {
+          "image_file": "03_dog.webp",
+          "emojis": ["🐕"]
+        },
+        {
+          "image_file": "02_dog.webp",
+          "emojis": ["🐕"]
+        },
+        {
+          "image_file": "04_dog.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "05_dog.webp",
+          "emojis": []
+        },
+        {
+          "image_file": "01_pablo.webp",
+          "emojis": []
+        }
+      ]
+    },
+    {
+      "identifier": "dogemote",
+      "name": "Dog Emotes",
+      "publisher": "zhtaihao",
+      "tray_image_file": "tray_dogemote.png",
+      "publisher_email": "app@taihao.de",
+      "publisher_website": "https://taihao.de",
+      "privacy_policy_website": "https://taihao.de/privacy",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"02_dogemote.webp"},
+        {"image_file":"01_dogemote.webp"},
+        {"image_file":"03_dogemote.webp"}
+      ]
+    },
+    {
+      "identifier": "dogpoop",
+      "name": "Dog poop",
+      "publisher": "zhtaihao",
+      "tray_image_file": "tray_poop.png",
+      "publisher_email": "app@taihao.de",
+      "publisher_website": "https://taihao.de",
+      "privacy_policy_website": "https://taihao.de/privacy",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_poop.webp",
+          "emojis": [
+            "💩"
+          ]
+        },
+        {
+          "image_file": "02_poop.webp",
+          "emojis": [
+            "💩"
+          ]
+        },
+        {
+          "image_file": "03_poop.webp",
+          "emojis": [
+            "💩"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier":"cat",
+      "name":"Manchu the Cat",
+      "publisher":"zhtaihao",
+      "tray_image_file":"tray_cat.png",
+      "publisher_email":"app@taihao.de",
+      "publisher_website": "https://taihao.de",
+      "privacy_policy_website": "https://taihao.de/privacy",
+      "license_agreement_website": "",
+      "stickers":[
+        {
+          "image_file": "01_cat.webp"
+        },
+        {
+          "image_file": "02_cat.webp"
+        },
+        {
+          "image_file": "03_cat.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "pigeons",
+      "name": "Pigeons of Frankfurt",
+      "publisher": "zhtaihao",
+      "tray_image_file": "tray_pigeon.png",
+      "publisher_email":"app@taihao.de",
+      "publisher_website": "https://taihao.de",
+      "privacy_policy_website": "https://taihao.de/privacy",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_pigeon.webp",
+          "emojis": ["🐦","🕊"]
+        },
+        {
+          "image_file": "02_pigeon.webp",
+          "emojis": ["🐦","🕊"]
+        },
+        {
+          "image_file": "03_pigeon.webp",
+          "emojis": ["🐦","🕊"]
+        },
+        {
+          "image_file": "04_pigeon.webp",
+          "emojis": ["🐦","🕊"]
+        },
+        {
+          "image_file": "05_pigeon.webp",
+          "emojis": ["🐦","🕊"]
+        },
+        {
+          "image_file": "06_pigeon.webp",
+          "emojis": ["🐦","🕊"]
+        }
+      ]
+    },
+    {
+      "identifier": "illegal",
+      "name":"illegal stickers",
+      "publisher":"zhtaihao",
+      "tray_image_file":"tray_illegal.png",
+      "publisher_email":"app@taihao.de",
+      "publisher_website": "https://taihao.de",
+      "privacy_policy_website": "https://taihao.de/privacy",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file":"01_jonas.webp"
+        },
+        {
+          "image_file":"02_jonas.webp"
+        },
+        {
+          "image_file":"03_jonas.webp"
+        },
+        {
+          "image_file":"04_jonas.webp"
+        },
+        {
+          "image_file":"01_taihao.webp"
+        },
+        {
+          "image_file":"01_eire.webp"
+        }
+      ]
+    }
+  ]
+}

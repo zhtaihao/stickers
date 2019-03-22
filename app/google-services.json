@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "33885467449",
+    "firebase_url": "https://stickers-96d4e.firebaseio.com",
+    "project_id": "stickers-96d4e",
+    "storage_bucket": "stickers-96d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33885467449:android:813589cf22d0f098",
+        "android_client_info": {
+          "package_name": "com.zhtaihao.stickers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33885467449-pav4uj5aqs2bck9l9monagkl23aeqmrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zhtaihao.stickers",
+            "certificate_hash": "bdcad7fdba420cfbb304459fe9940a9388493a28"
+          }
+        },
+        {
+          "client_id": "33885467449-7urqeqdb64t0pg3i88fbrjm1gkp8ml38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACFfV5nLVn41H2cN4CKzIxFxy-o0IbFBo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33885467449-7urqeqdb64t0pg3i88fbrjm1gkp8ml38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
