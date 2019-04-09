@@ -50,8 +50,7 @@
       "stickers": [
         {"image_file":"02_dogemote.webp"},
         {"image_file":"01_dogemote.webp"},
-        {"image_file":"03_dogemote.webp"},
-        {"image_file":"04_dogemote.webp"}
+        {"image_file":"03_dogemote.webp"}
       ]
     },
     {
@@ -88,18 +87,10 @@
       "privacy_policy_website": "https://taihao.de/privacy",
       "license_agreement_website": "",
       "stickers":[
-        {
-          "image_file": "01_cat.webp"
-        },
-        {
-          "image_file": "02_cat.webp"
-        },
-        {
-          "image_file": "03_cat.webp"
-        },
-        {
-          "image_file": "04_cat.webp"
-        }
+        {"image_file": "01_cat.webp"},
+        {"image_file": "02_cat.webp"},
+        {"image_file": "03_cat.webp"},
+        {"image_file": "04_cat.webp"}
       ]
     },
     {
@@ -148,24 +139,13 @@
       "privacy_policy_website": "https://taihao.de/privacy",
       "license_agreement_website": "",
       "stickers": [
-        {
-          "image_file":"01_jonas.webp"
-        },
-        {
-          "image_file":"02_jonas.webp"
-        },
-        {
-          "image_file":"03_jonas.webp"
-        },
-        {
-          "image_file":"04_jonas.webp"
-        },
-        {
-          "image_file":"01_taihao.webp"
-        },
-        {
-          "image_file":"01_eire.webp"
-        }
+        {"image_file":"01_jonas.webp"},
+        {"image_file":"02_jonas.webp"},
+        {"image_file":"03_jonas.webp"},
+        {"image_file":"04_jonas.webp"},
+        {"image_file":"01_taihao.webp"},
+        {"image_file":"01_eire.webp"},
+        {"image_file":"04_dogemote.webp"}
       ]
     }
   ]
