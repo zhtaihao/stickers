@@ -60,7 +60,7 @@ public class EntryActivity extends BaseActivity {
             intent.setType("text/type");
 
             String subject ="@string/share_subject";
-            String message = StickerPack.getNAME();
+            String message = "";
 
             intent.putExtra(Intent.EXTRA_SUBJECT, subject);
             intent.putExtra(Intent.EXTRA_TEXT, message);

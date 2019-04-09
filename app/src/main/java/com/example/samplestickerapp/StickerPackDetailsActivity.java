@@ -116,16 +116,17 @@ public class StickerPackDetailsActivity extends AddStickerPackActivity {
             return true;
         }
         if (item.getItemId() == R.id.action_share){
+            stickerPack = getIntent().getParcelableExtra(EXTRA_STICKER_PACK_DATA);
 
             Intent intent = new Intent(Intent.ACTION_SEND);
             intent.setType("text/type");
             String message = "Check out the "
-                    +StickerPack.getNAME()
+                    +stickerPack.toString()
                     +" stickers that I got from taihao.de/stickers!";
             intent.putExtra(Intent.EXTRA_TEXT, message);
             intent.putExtra(Intent.EXTRA_SUBJECT, "Animal Stickers!");
             startActivity(Intent.createChooser(intent, ""));
-            Toast.makeText(getApplicationContext(), "Send some " + StickerPack.getNAME() + " stickers along!", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Send some " + stickerPack.toString() + " stickers along!", Toast.LENGTH_LONG).show();
 
             return true;
         }

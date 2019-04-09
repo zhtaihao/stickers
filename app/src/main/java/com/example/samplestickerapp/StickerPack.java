@@ -39,7 +39,6 @@ class StickerPack implements Parcelable {
         this.publisherWebsite = publisherWebsite;
         this.privacyPolicyWebsite = privacyPolicyWebsite;
         this.licenseAgreementWebsite = licenseAgreementWebsite;
-        this.NAME = name;
     }
 
     void setIsWhitelisted(boolean isWhitelisted) {
@@ -102,10 +101,6 @@ class StickerPack implements Parcelable {
         return totalSize;
     }
 
-    public static String getNAME() {
-        return NAME;
-    }
-
     @Override
     public int describeContents() {
         return 0;
@@ -127,4 +122,7 @@ class StickerPack implements Parcelable {
         dest.writeString(androidPlayStoreLink);
         dest.writeByte((byte) (isWhitelisted ? 1 : 0));
     }
+
+    @Override
+    public String toString(){ return name;}
 }

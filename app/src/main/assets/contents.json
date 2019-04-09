@@ -50,7 +50,8 @@
       "stickers": [
         {"image_file":"02_dogemote.webp"},
         {"image_file":"01_dogemote.webp"},
-        {"image_file":"03_dogemote.webp"}
+        {"image_file":"03_dogemote.webp"},
+        {"image_file":"04_dogemote.webp"}
       ]
     },
     {
@@ -65,21 +66,15 @@
       "stickers": [
         {
           "image_file": "01_poop.webp",
-          "emojis": [
-            "💩"
-          ]
+          "emojis": ["💩"]
         },
         {
           "image_file": "02_poop.webp",
-          "emojis": [
-            "💩"
-          ]
+          "emojis": ["💩"]
         },
         {
           "image_file": "03_poop.webp",
-          "emojis": [
-            "💩"
-          ]
+          "emojis": ["💩"]
         }
       ]
     },
@@ -101,6 +96,9 @@
         },
         {
           "image_file": "03_cat.webp"
+        },
+        {
+          "image_file": "04_cat.webp"
         }
       ]
     },
