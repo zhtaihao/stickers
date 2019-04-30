@@ -10,6 +10,7 @@ package com.example.samplestickerapp;
 
 import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -43,6 +44,10 @@ public class EntryActivity extends BaseActivity {
         progressBar = findViewById(R.id.entry_activity_progress);
         loadListAsyncTask = new LoadListAsyncTask(this);
         loadListAsyncTask.execute();
+        // ATTENTION: This was auto-generated to handle app links.
+        Intent appLinkIntent = getIntent();
+        String appLinkAction = appLinkIntent.getAction();
+        Uri appLinkData = appLinkIntent.getData();
     }
 
     @Override
